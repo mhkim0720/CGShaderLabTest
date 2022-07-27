@@ -1,5 +1,7 @@
 Shader "Custom/ColorTest"
 {
+    //½¦¾î´õ ÁÖ¼®µµ Ä¿¹Ô¶ß³ª? 
+
     Properties
     {
         _Color("Color", Color) = (1,0,0,1)
