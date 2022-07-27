@@ -1,6 +1,6 @@
-Shader "Custom/ColorTest"
+ï»¿Shader "Custom/ColorTest"
 {
-    //½¦¾î´õ ÁÖ¼®µµ Ä¿¹Ô¶ß³ª? 
+    //ì‰ì–´ë” ì£¼ì„ë„ ì»¤ë°‹ëœ¨ë‚˜? 
 
     Properties
     {
