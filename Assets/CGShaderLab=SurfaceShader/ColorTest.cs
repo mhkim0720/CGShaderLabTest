@@ -1,11 +1,11 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class ColorTest : MonoBehaviour
 {
-
+    //주석만 달아도 커밋이 뜨는지 테스트. 
     public Text txtColor;
 
     // Start is called before the first frame update
